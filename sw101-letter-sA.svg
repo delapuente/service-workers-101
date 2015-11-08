@@ -421,9 +421,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.16"
-     inkscape:cx="-211.12908"
-     inkscape:cy="-846.17306"
+     inkscape:zoom="1.28"
+     inkscape:cx="-16.926175"
+     inkscape:cy="717.2873"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -464,7 +464,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -957,7 +957,7 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.92591286px;line-height:125%;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
              id="tspan24731">Use <tspan
    id="tspan23117"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.92591286px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Bold'">self.skipWaiting()</tspan> in the install handler to skip installed stage and directly jump to activating stage</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.92591286px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Bold'">self.skipWaiting()</tspan> anytime before activation to skip installed stage and directly jump to activating stage</tspan><tspan
              sodipodi:role="line"
              x="70.905045"
              y="1.9722085"
@@ -992,7 +992,7 @@
              sodipodi:role="line"
              id="tspan22378">Use <tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.92591286px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Bold'"
-   id="tspan24588">self.client.claim() </tspan> in the activate handler to start controlling all open clients without reloading them.</tspan></text>
+   id="tspan24588">self.clients.claim() </tspan> in the activate handler to start controlling all open clients without reloading them.</tspan></text>
       </g>
       <g
          id="g24550"
@@ -1034,7 +1034,7 @@
            sodipodi:role="line"
            id="tspan23885"
            x="234.40125"
-           y="607.31049"></tspan></text>
+           y="607.31049" /></text>
       <g
          transform="matrix(0.41667352,0,0,0.41667352,581.45355,260.79591)"
          id="g24005">

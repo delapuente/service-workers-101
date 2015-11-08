@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="sw101-letter-sBsvg.svg"
+   sodipodi:docname="sw101-letter-sB.svg"
    inkscape:export-filename="/Users/salva/sw101.png"
    inkscape:export-xdpi="150"
    inkscape:export-ydpi="150">
@@ -396,10 +396,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.90509668"
-     inkscape:cx="986.72112"
+     inkscape:cx="461.9153"
      inkscape:cy="384.01492"
      inkscape:document-units="px"
-     inkscape:current-layer="g24494"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="2560"
      inkscape:window-height="1315"
@@ -438,7 +438,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1542,9 +1542,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
            y="305.81512"
            x="57.260429"
-           sodipodi:role="line">After registering a service worker to controll a scope, each time a client in that scope request a resource from<tspan
-   id="tspan31318"
-   style="font-weight:bold;font-size:12.5px"></tspan></tspan><tspan
+           sodipodi:role="line">After registering a service worker to control a scope, each time a client in that scope request a resource from</tspan><tspan
            id="tspan25416"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
            y="321.44012"
@@ -1724,7 +1722,7 @@
            x="57.260429"
            sodipodi:role="line">Through <tspan
    id="tspan31272"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Bold'">event.respondWIth()</tspan> and passing a response object, the service worker can answer the client's request</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Bold'">event.respondWith()</tspan> and passing a response object, the service worker can answer the client's request</tspan><tspan
            id="tspan31240"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
            y="549.14636"
