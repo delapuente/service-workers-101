@@ -3,4 +3,9 @@ Install [Fira Sans](https://www.mozilla.org/en-US/styleguide/products/firefox-os
 
 An infographic to summarize the most important parts of the Service Workers' API
 
-![Latest infographic](https://cloud.githubusercontent.com/assets/39191/14337865/ce7a2b4a-fc26-11e5-82c5-c18430cafe6d.png)
+![Latest infographic](https://cdn.rawgit.com/delapuente/service-workers-101/master/sw101.png)
+
+## Aditional credits
+Original server and push server art by Gregor Črešnar from [The Noun Project](https://thenounproject.com/grega.cresnar).
+
+Original train art by Toby Fitch from [The Noun Project](https://thenounproject.com/tfitch)
